@@ -45,7 +45,7 @@ Currently, I am improving my skills through bootcamp and internship experience a
 
 ### 🌿 MealMind
 
-<img src="./MealMind.png" alt="MealMind Preview" width="100%" />
+<img src="./assets/MealMind.png" alt="MealMind Preview" width="100%" />
 
 AI-powered 7-day meal planner web application that helps users generate personalized meal plans based on goals, allergies, and food preferences.
 
@@ -56,7 +56,7 @@ AI-powered 7-day meal planner web application that helps users generate personal
 
 ### 🎮 GameShelf
 
-<img src="./GameShelf.png" alt="GameShelf Preview" width="100%" />
+<img src="./assets/GameShelf.png" alt="GameShelf Preview" width="100%" />
 
 E-commerce web application for selling physical game products. This project focuses on product listing, shopping flow, and modern landing page design.
 
@@ -67,7 +67,7 @@ E-commerce web application for selling physical game products. This project focu
 
 ### 🚗 RideNest
 
-<img src="./RideNest.png" alt="RideNest Preview" width="100%" />
+<img src="./assets/RideNest.png" alt="RideNest Preview" width="100%" />
 
 Vehicle rental booking web application for renting motorcycles, cars, travel vehicles, and buses. Built as a group project with frontend and backend collaboration.
 
@@ -78,7 +78,7 @@ Vehicle rental booking web application for renting motorcycles, cars, travel veh
 
 ### 💬 Circle App
 
-<img src="./CircleApp.png" alt="Circle App Preview" width="100%" />
+<img src="./assets/CircleApp.png" alt="Circle App Preview" width="100%" />
 
 Social media web application with features such as creating posts, viewing user profiles, following users, and interacting with content.
 
@@ -89,7 +89,7 @@ Social media web application with features such as creating posts, viewing user 
 
 ### 💸 MoneyLog
 
-<img src="./MoneyLogAPK.png" alt="MoneyLog Preview" width="100%" />
+<img src="./assets/MoneyLogAPK.png" alt="MoneyLog Preview" width="100%" />
 
 Flutter mobile application for tracking personal expenses and transaction history. This app helps users record expenses by category and view monthly spending summaries.
 
