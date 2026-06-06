@@ -44,6 +44,9 @@ Currently, I am improving my skills through bootcamp and internship experience a
 ## 📌 Featured Projects
 
 ### 🌿 MealMind
+
+<img src="./MealMind.png" alt="MealMind Preview" width="100%" />
+
 AI-powered 7-day meal planner web application that helps users generate personalized meal plans based on goals, allergies, and food preferences.
 
 **Tech Stack:** Next.js, TypeScript, Supabase, Vercel  
@@ -52,6 +55,9 @@ AI-powered 7-day meal planner web application that helps users generate personal
 ---
 
 ### 🎮 GameShelf
+
+<img src="./GameShelf.png" alt="GameShelf Preview" width="100%" />
+
 E-commerce web application for selling physical game products. This project focuses on product listing, shopping flow, and modern landing page design.
 
 **Tech Stack:** Next.js, TypeScript, Vercel  
@@ -60,6 +66,9 @@ E-commerce web application for selling physical game products. This project focu
 ---
 
 ### 🚗 RideNest
+
+<img src="./RideNest.png" alt="RideNest Preview" width="100%" />
+
 Vehicle rental booking web application for renting motorcycles, cars, travel vehicles, and buses. Built as a group project with frontend and backend collaboration.
 
 **Tech Stack:** Next.js, TypeScript  
@@ -67,7 +76,21 @@ Vehicle rental booking web application for renting motorcycles, cars, travel veh
 
 ---
 
+### 💬 Circle App
+
+<img src="./CircleApp.png" alt="Circle App Preview" width="100%" />
+
+Social media web application with features such as creating posts, viewing user profiles, following users, and interacting with content.
+
+**Tech Stack:** React.js, TypeScript, Express.js  
+**Live Demo:** https://circle-app-gamma-three.vercel.app/login
+
+---
+
 ### 💸 MoneyLog
+
+<img src="./MoneyLogAPK.png" alt="MoneyLog Preview" width="100%" />
+
 Flutter mobile application for tracking personal expenses and transaction history. This app helps users record expenses by category and view monthly spending summaries.
 
 **Tech Stack:** Flutter, Dart  
@@ -76,6 +99,7 @@ Flutter mobile application for tracking personal expenses and transaction histor
 ---
 
 ### ✈️ AirPlaneCourseREH
+
 Flutter mobile application project for airplane course learning. This project was built from Build With Angga learning material.
 
 **Tech Stack:** Flutter, Dart  
@@ -84,11 +108,11 @@ Flutter mobile application project for airplane course learning. This project wa
 ---
 
 ### 🕌 RSD_Qibla
+
 Thesis mobile application project built with Flutter. This project focuses on mobile-based religious daily features.
 
 **Tech Stack:** Flutter, Dart  
 **Note:** Mobile app, installed and tested manually on Android devices.
-
 ## 📫 Connect With Me
 
 - Email: **girindrasw45@gmail.com**
