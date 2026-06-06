@@ -89,12 +89,6 @@ Thesis mobile application project built with Flutter. This project focuses on mo
 **Tech Stack:** Flutter, Dart  
 **Note:** Mobile app, installed and tested manually on Android devices.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GirindraSW&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GirindraSW&layout=compact&theme=tokyonight)
-
 ## 📫 Connect With Me
 
 - Email: **girindrasw45@gmail.com**
